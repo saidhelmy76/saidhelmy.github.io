@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top:7rem;
+  background-color: #e2edff;
+  text-align: center;
+}
+
+#my-product{
+    background-color: #e2edff;
+}
+
+section {
+    padding-top: 5rem;
+}
